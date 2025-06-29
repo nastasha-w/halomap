@@ -1,7 +1,7 @@
 # halomap
 Two small functions for attributing pixels in a 2D-projection
 to spheres in the 3D projected space. This is a small bit of
-C+OpenMP code I wrote during my PhD, in 2021.
+C+OpenMP code I wrote during my PhD.
 
 ## what is does
 The basic idea was to connect pixels in (2D) column density
